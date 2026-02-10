@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ETi0n/ETi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Good%20to%20see%20you)
+![header](https://capsule-render.vercel.app/api?type=Venom&section=header&height=300&color=gradient&animation=fadeIn&fontColor=000000&text=Hi,%20I'm%20chat%20Elin)
 
-🦕 I've Used in the Past
-<img src="https://img.shields.io/badge/##6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/###6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/##6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+안녕하세요.
 
-<img src="https://img.shields.io/badge/####3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/###61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/#####FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+현재 보이는 프로필은 임시로 꾸며본 화면입니다.
 
-<img src="https://img.shields.io/badge/####000000?style=flat-square&logo=vercel&logoColor=white"/>
+</br>
 
-🌱 I’m currently learning
-<img src="https://img.shields.io/badge/#F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/##2396F3?style=flat-square&logo=uikit&logoColor=white"/>
-<img src="https://img.shields.io/badge/#F05138?style=flat-square&logo=swift&logoColor=white"/>
+#### 🦕 I've used in the past
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</br>
+
+#### 🌱 I’m currently learning
+
+<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/uikit-2396F3?style=flat-square&logo=uikit&logoColor=white"/>
+
+</br>
+
+ #### 📫 How to reach me
+ Contact me whenever you want.
+ 
+ Email: ysl04030@gmail.com
