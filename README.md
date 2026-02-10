@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Venom&section=header&height=300&color=gradient&animation=fadeIn&fontColor=000000&text=Hi,%20I'm%20chat%20Elin)
+![header](https://capsule-render.vercel.app/api?type=Venom&section=header&height=300&color=gradient&animation=fadeIn&text=Hi,%20I'm%20chat%20Elin)
 
 안녕하세요.
 
